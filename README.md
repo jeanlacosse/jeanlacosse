@@ -1,9 +1,9 @@
 ### Welcome! 
 
 
-<a href="https://www.linkedin.com/in/jean-luc-lacosse-572b64172/">link</a>
+<a href="https://www.linkedin.com/in/jean-luc-lacosse-572b64172/"><img src="https://camo.githubusercontent.com/9c07dbeae2c935dd1ac9f3ef611645d9d12200d46535c34e7235cbeacb7cfd4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a65616e6e69652e6465762d79656c6c6f77677265656e3f7374796c653d666f722d7468652d6261646765" alt="Jean-Luc" data-canonical-src="https://img.shields.io/badge/-jeannie.dev-yellowgreen?style=for-the-badge" style="max-width: 100%;"></a>
 
-https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 
 <!--
 **jeanlacosse/jeanlacosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
