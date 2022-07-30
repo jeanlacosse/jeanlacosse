@@ -1,7 +1,7 @@
 ### Welcome! 
 <h1>⭐️⭐️ Welcome to my Github! ⭐️⭐️</h1>
 <br>
-<p>
+<p dir="auto">
   Full Stack Web Developer | Lifelong Learner | Amateur Traveler
  <br>
   
