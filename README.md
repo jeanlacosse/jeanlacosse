@@ -1,5 +1,5 @@
 ### Hi there 👋
-![Twitter URL](https://img.shields.io/twitter/url?label=LinkedIn&logo=linkedin&url=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fjean-luc-lacosse-572b64172%2F)
+![LinkedinURL](https:www.linkedin.com%2Fin%2Fjean-luc-lacosse-572b64172%2F)
 <!--
 **jeanlacosse/jeanlacosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
