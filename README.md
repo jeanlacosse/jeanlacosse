@@ -1,5 +1,7 @@
-### Hi there 👋
-![LinkedinURL](https:www.linkedin.com%2Fin%2Fjean-luc-lacosse-572b64172%2F)
+### Welcome! 
+
+https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
+
 <!--
 **jeanlacosse/jeanlacosse** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
