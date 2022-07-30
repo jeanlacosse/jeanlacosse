@@ -1,7 +1,7 @@
 ### Welcome! 
 
+<a href="https://linkedin.com/in/JeannieBranstrator" rel="nofollow"><img src="https://camo.githubusercontent.com/f80827f692b8a8ff3e0b4ce542f20931cca613dd401058f2366f32231683ef84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4c696e6b6564496e2d626c75653f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e" alt="LinkedIn" data-canonical-src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&amp;logo=linkedin" style="max-width: 100%;"></a>
 
-<a href="https://www.linkedin.com/in/jean-luc-lacosse-572b64172/"><img src="https://camo.githubusercontent.com/9c07dbeae2c935dd1ac9f3ef611645d9d12200d46535c34e7235cbeacb7cfd4f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d6a65616e6e69652e6465762d79656c6c6f77677265656e3f7374796c653d666f722d7468652d6261646765" alt="Jean-Luc" data-canonical-src="https://img.shields.io/badge/-jeannie.dev-yellowgreen?style=for-the-badge" style="max-width: 100%;"></a>
 
 
 
